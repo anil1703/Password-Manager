@@ -1,0 +1,28 @@
+.round {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background-color: aqua;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.liStyle {
+  color: white;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  border: 1px #f8fafc solid;
+  width: 260px;
+  padding: 10px;
+}
+.delete-div {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin-left: auto;
+}
+.deleteButn {
+  height: 20px;
+}

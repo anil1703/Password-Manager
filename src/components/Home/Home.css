@@ -1,0 +1,130 @@
+.home-bg {
+  background-color: #9ba9eb;
+  height: 100vh;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.logo {
+  height: 50px;
+}
+.box-1 {
+  background-color: #5763a5;
+  padding: 25px;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  border-radius: 8px;
+  gap: 13px;
+  justify-content: space-between;
+}
+.box-head {
+  color: white;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.form {
+  background-color: #454f84;
+  border-radius: 12px;
+  width: 400px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.input-logo {
+  height: 20px;
+  padding-left: 10px;
+}
+.box-hr {
+  color: #5763a5;
+  align-self: stretch;
+}
+.input-style {
+  height: 40px;
+
+  width: 100%;
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+.input-div {
+  display: flex;
+  background-color: #f8fafc;
+  border-radius: 3px;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+.addBtn {
+  height: 30px;
+  color: white;
+  background-color: #0b69ff;
+  width: 80px;
+  border: none;
+  border-radius: 3px;
+  align-self: flex-end;
+}
+.box-poster {
+  height: 350px;
+}
+.box-2 {
+  background-color: #5763a5;
+  padding: 25px;
+  width: 100%;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+}
+.searchbox {
+  background-color: #f8fafc;
+  height: 25px;
+  width: 200px;
+  border-radius: 3px;
+  display: flex;
+  gap: 6px;
+}
+.search-icon {
+  padding-left: 5px;
+}
+.search-input {
+  border: none;
+  background-color: transparent;
+  outline: none;
+}
+.box2-div {
+  display: flex;
+  justify-content: space-between;
+}
+.hori-line {
+  align-self: stretch;
+  color: #94a3b8;
+  margin-bottom: 10px;
+}
+.show {
+  color: white;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  align-self: flex-end;
+}
+.ulStyle {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+.no-div {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
+.noPass {
+  height: 200px;
+}
